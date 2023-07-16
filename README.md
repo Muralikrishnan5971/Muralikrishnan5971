@@ -1,6 +1,6 @@
 ### Hi there, 👋  This is Muralikrishnan Ganesan!
 
-I am a QA Engineer who loves to automate all manual tests to automation scripts thus reducing manual efforts on testing. I have built test automation frameworks using Page Object Model (POM) design pattern and Behavior-driven development (BDD) approach using cucumber.
+I am an Automation QA Engineer who loves to automate all manual tests to automation scripts thus reducing manual efforts on testing. I have built test automation frameworks using Page Object Model (POM) design pattern and Behavior-driven development (BDD) approach using cucumber.
 
 Skills: Java, Selenium, TestNG, Maven, Jenkins, Git, Cucumber, Postman, RestAssured
 
